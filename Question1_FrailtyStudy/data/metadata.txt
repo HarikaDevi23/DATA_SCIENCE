@@ -1,0 +1,8 @@
+Dataset: Female Hand Grip Strength and Frailty
+Variables:
+- Height (inches)
+- Weight (pounds)
+- Age (years)
+- Grip Strength (kg)
+- Frailty (Yes/No)
+Data Source: Simulated for academic use.
